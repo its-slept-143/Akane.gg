@@ -1,5 +1,4 @@
 
-```
 ## Copyright
 
 > **© 2026 Akane.gg - All Rights Reserved**
@@ -9,4 +8,3 @@
 > Unauthorized use, reproduction, or distribution of any materials from this repository is strictly prohibited and may result in legal action.
 >
 > This repository is shared for **viewing purposes only.**
-```
